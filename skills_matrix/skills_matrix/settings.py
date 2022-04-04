@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'base_site',
     'skill_check',
+    'accounts',
 ]
 
 MIDDLEWARE = [
